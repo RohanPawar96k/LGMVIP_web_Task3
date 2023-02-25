@@ -1,0 +1,48 @@
+* {
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 60%;
+  border-collapse: collapse;
+}
+
+table th {
+  background-color: #f8d568;
+}
+
+input {
+  width: 98%;
+  margin-left: 0.3%;
+}
+
+body {
+  background-image: url(webform.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#rbtn {
+  background-image: linear-gradient(to left, orange, yellow);
+  width: 10%;
+}
+
+#btn {
+  background-image: linear-gradient(to left, orange, yellow);
+  width: 10%;
+}
+
+#btns {
+  margin-left: 60%;
+  width: 70%;
+}
